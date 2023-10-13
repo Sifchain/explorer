@@ -1,12 +1,10 @@
 {
     "chain_name": "sifchain",
     "api": [
-        "https://proxies.sifchain.finance/api/sifchain-testnet/rest",
-        "http://sifchain-testnet-2.sifchain.network:10131"
+        "https://proxies.sifchain.finance/api/sifchain-testnet/rest"
     ],
     "rpc": [
-        "https://proxies.sifchain.finance/api/sifchain-testnet/rest",
-        "http://sifchain-testnet-2.sifchain.network:10286"
+        "https://proxies.sifchain.finance/api/sifchain-testnet/rest"
     ],
     "snapshot_provider": "",
     "sdk_version": "0.45.9",
